@@ -1,3 +1,6 @@
+// Set 'Active Input Handling' to 'Input System Package (New)' or 'Both' in Project Settings > Player.
+// Remeber to chat with AI to use this script if you faced any problems.
+
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;

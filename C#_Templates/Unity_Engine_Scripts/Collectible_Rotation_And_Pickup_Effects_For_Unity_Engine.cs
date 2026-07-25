@@ -1,3 +1,5 @@
+// Remeber to chat with AI to use this script if you faced any problems.
+
 using UnityEngine; // Provides access to core Unity features, classes, and components (like MonoBehaviour, GameObject, Vector3)
 
 // Defines the Collectible class, which inherits from MonoBehaviour so it can be attached to Unity GameObjects

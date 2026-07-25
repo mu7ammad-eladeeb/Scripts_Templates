@@ -2,6 +2,7 @@
 
 /* Don't Forget To Go To Edit > Project Settings > Player > Other Settings Dropdown > Choose "Both" For Active Input Handling.
 This is required for the new Input System to work with the old Input System.
+Remeber to chat with AI to use this script if you faced any problems.
 */
 
 using UnityEngine;

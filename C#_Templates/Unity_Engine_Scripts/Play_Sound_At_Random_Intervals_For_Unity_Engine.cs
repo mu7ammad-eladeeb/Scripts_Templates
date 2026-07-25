@@ -1,3 +1,5 @@
+// Remeber to chat with AI to use this script if you faced any problems.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
