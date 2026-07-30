@@ -3,6 +3,9 @@
 /* Don't Forget To Go To Edit > Project Settings > Player > Other Settings Dropdown > Choose "Both" For Active Input Handling.
 This is required for the new Input System to work with the old Input System.
 Remeber to chat with AI to use this script if you faced any problems.
+Important: Make sure to rename the file name to match the class name
+to avoid compilation errors in Unity and vice versa. Unity requires that
+the filename and class name match for MonoBehaviour scripts.
 */
 
 using UnityEngine;

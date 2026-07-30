@@ -1,6 +1,9 @@
 // Set 'Active Input Handling' to 'Input System Package (New)' or 'Both' in Project Settings > Player.
-// Remeber to chat with AI to use this script if you faced any problems.
-
+/* Remeber to chat with AI to use this script if you faced any problems.
+Important: Make sure to rename the file name to match the class name
+to avoid compilation errors in Unity and vice versa. Unity requires that
+the filename and class name match for MonoBehaviour scripts.
+*/
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;

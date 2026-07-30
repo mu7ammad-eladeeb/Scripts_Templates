@@ -1,5 +1,8 @@
-// Remeber to chat with AI to use this script if you faced any problems.
-/* There are other adjustments you will need to do in the script component
+/* Remeber to chat with AI to use this script if you faced any problems.
+Important: Make sure to rename the file name to match the class name
+to avoid compilation errors in Unity and vice versa. Unity requires that
+the filename and class name match for MonoBehaviour scripts.
+There are other adjustments you will need to do in the script component
 in Unity's GameObject & in the AudioSource component which will be automatically
 added to the GameObject when you add this script to it. (Ask AI about them)
 */
